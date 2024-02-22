@@ -1,0 +1,16 @@
+nav {
+  width: 500px;
+  border: 1px solid black;
+}
+nav ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+nav li {
+  display: flex;
+}
+nav a {
+  padding: 5px 10px;
+  text-decoration: none;
+}/*# sourceMappingURL=style.css.map */
